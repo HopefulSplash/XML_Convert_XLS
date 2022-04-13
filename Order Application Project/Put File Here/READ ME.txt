@@ -1,0 +1,6 @@
+Follow The Steps To Complete The Upload
+
+1) Export Till Data
+2) Delete Any Files In Here But The Read Me File
+3) Copy The Till Data File Into This Folder
+4)
